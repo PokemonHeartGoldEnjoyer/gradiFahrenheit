@@ -21,4 +21,4 @@ function prova37(x) {
   console.log(prova37(10));
   
   // Salva il risultato della funzione prova37 nel argomento 11 della console
-  console.log(prova37(11)); 
+  console.log(prova37(11));

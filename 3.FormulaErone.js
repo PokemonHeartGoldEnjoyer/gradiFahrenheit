@@ -11,16 +11,3 @@ var area = Math.sqrt(semiperimetro  * ((semiperimetro  - lato1) * (semiperimetro
 
 // Dichiara l'area calcolata nella console 
 console.log(area);
-
-/* SPIEGAIONE SOLUZIONE 
-    Questo codice riceve tre parametri chiamati anche "lati". 
-    Successivamente, somma questi lati per calcolare il semiperimetro, e infine, 
-    il semiperimetro viene moltiplicato per la differenza tra il semiperimetro e ciascun lato individualmente.
-*/
-
-
-/* ESEMPIO OUTPUT
-    Nella console vedrai l'area del triangolo con lati di 5, 12 e 13, 
-    con i seguenti dati prima viene calcolato il semiperimetro e poi viene calcolata l'area dato il semiperimetro 
-*/
-

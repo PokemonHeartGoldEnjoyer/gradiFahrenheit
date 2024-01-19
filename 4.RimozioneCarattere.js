@@ -16,12 +16,3 @@ console.log(rimuovi_caratteri("Python", 3)); /* Risultato: "Pyton" */
 
 // Salva il risultato della chiamata della funzione rimuovi_caratteri con gli argomenti "Python" e 5 nella console
 console.log(rimuovi_caratteri("Python", 5)); /* Risultato: "Pythn" */
-
-/*
-    Questo codice implementa una semplice funzione per rimuovere un singolo carattere da una stringa in base alla posizione specificata 
-    e dimostra il suo funzionamento attraverso diverse chiamate di esempio.
-  
-    Pyton
-    Pyton
-    Pytho
-*/
